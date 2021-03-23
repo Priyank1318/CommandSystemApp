@@ -1,0 +1,10 @@
+::ng-deep .p-datatable .p-datatable-thead > tr > th{
+    background-color: #66CDAA;
+    
+}
+
+.title{
+    color: #008B8B;
+    text-align: center;
+    font-family: FordAntenna;
+}

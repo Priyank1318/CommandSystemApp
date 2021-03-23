@@ -24,7 +24,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
@@ -119,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CommandSystemsApplication"
+    }
+  },
+  "defaultProject": "CommandSystemsApplication",
+  "cli": {
+    "analytics": "4a21e368-f1ad-4ad9-a402-24e166fca17d"
+  }
 }
